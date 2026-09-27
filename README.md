@@ -1,6 +1,6 @@
   <!-- Chữ chạy tự động -->
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=1000&color=3382FF&center=true&vCenter=true&width=500&lines=Hi,+I'm+Nguyen+Gia+Huy;Computer+Engineering+Student;" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=1000&color=3382FF&center=true&vCenter=true&width=500&lines=Hi,+I'm+Nguyen+Gia+Huy;" alt="Typing SVG" />
   </a>
 
   <!-- Sửa link src thành link ảnh GIF bạn thích -->
