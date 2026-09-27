@@ -16,7 +16,6 @@ I am a Computer Engineering student currently building my foundational skills in
 
 ### ⚡ About Me:
 * Passionate about low-level hardware architecture and eager to contribute to real-world SoC projects.
-* Active member of the English Speaking Club (ESC) at VNUHCM Dormitory, focusing on improving soft skills.
 * Always open to learning new EDA tools and improving my engineering mindset step by step.
 
 📫 **Connect with me:** [www.linkedin.com/in/huy-nguyengia](https://www.linkedin.com/in/huy-nguyengia) | ✉️ huyng5131@gmail.com
