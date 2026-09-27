@@ -1,5 +1,5 @@
 <div align="center">
-<img width="480" height="180" alt="Animation Girl GIF" src="https://github.com/user-attachments/assets/14b55de5-c3eb-4c29-ad1f-eee5fe3fb6d8" />
+<img width="480" height="270" alt="Art Love GIF" src="https://github.com/user-attachments/assets/6af6b075-3d31-4433-bf35-2d258f26c827" />
 </div>
 
 # 🚀 Hello, World! I'm Nguyễn Gia Huy
