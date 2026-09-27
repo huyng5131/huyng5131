@@ -1,16 +1,15 @@
 <div align="center">
-  <!-- Emote bên trái -->
-  <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExMjM2d2M4OTkwbnVnbHBueWZnbGF6Y3d0MnR6YWtvdndxNXZrYmNneiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/iDH7Sk8M7nHKMFZNWs/giphy.gif" width="40">
+  <!-- Bongo Cat gõ phím bên trái -->
+  <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ce.gif" width="50" />
   
   <!-- Chữ chạy tự động với font Pixel (VT323) -->
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=VT323&size=32&duration=3000&pause=1000&color=3382FF&center=true&vCenter=true&width=500&lines=Hi,+I'm+Nguyen+Gia+Huy;" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=VT323&size=32&duration=3000&pause=1000&color=3382FF&center=true&vCenter=true&width=500&lines=Hi,+I'm+Nguyen+Gia+Huy;Computer+Engineering+Student;RTL+Design+Enthusiast" alt="Typing SVG" />
   </a>
 
-  <!-- Emote bên phải -->
-  <img src="https://media.tenor.com/J1yQ-C8bKZEAAAAi/cat-typing.gif" width="40">
+  <!-- Bongo Cat gõ phím bên phải -->
+  <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ce.gif" width="50" />
 </div>
----
 
 # 🚀 System Architecture & Profile
 
