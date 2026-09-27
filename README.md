@@ -1,12 +1,15 @@
-  <!-- Chữ chạy tự động -->
+<div align="center">
+  <!-- Emote bên trái -->
+  <img src="https://media.tenor.com/J1yQ-C8bKZEAAAAi/cat-typing.gif" width="40">
+  
+  <!-- Chữ chạy tự động với font Pixel (VT323) -->
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=1000&color=3382FF&center=true&vCenter=true&width=500&lines=Hi,+I'm+Nguyen+Gia+Huy;" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=VT323&size=32&duration=3000&pause=1000&color=3382FF&center=true&vCenter=true&width=500&lines=Hi,+I'm+Nguyen+Gia+Huy;" alt="Typing SVG" />
   </a>
 
-  <!-- Sửa link src thành link ảnh GIF bạn thích -->
+  <!-- Emote bên phải -->
   <img src="https://media.tenor.com/J1yQ-C8bKZEAAAAi/cat-typing.gif" width="40">
 </div>
-
 ---
 
 # 🚀 System Architecture & Profile
