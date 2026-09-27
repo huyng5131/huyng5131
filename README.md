@@ -1,6 +1,6 @@
 <div align="center">
   <!-- Emote bên trái -->
-  <img src="https://media.tenor.com/J1yQ-C8bKZEAAAAi/cat-typing.gif" width="40">
+  <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExMjM2d2M4OTkwbnVnbHBueWZnbGF6Y3d0MnR6YWtvdndxNXZrYmNneiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/iDH7Sk8M7nHKMFZNWs/giphy.gif" width="40">
   
   <!-- Chữ chạy tự động với font Pixel (VT323) -->
   <a href="https://git.io/typing-svg">
