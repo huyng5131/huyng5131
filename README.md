@@ -1,8 +1,6 @@
 <div align="center">
-[[  <img width="629" height="500" alt="image" src="https://github.com/user-attachments/assets/5e2e5c28-03e2-4953-a030-fc13e11ada58" />
-]](https://media.tenor.com/BrNtIejIcXUAAAAC/pixel-art.gif)
+<img width="480" height="480" alt="Art Pixel GIF" src="https://github.com/user-attachments/assets/9b84af66-bd43-42f3-9ad1-0efdf95f29d5" />
 </div>
-
 
 # 🚀 Hello, World! I'm Nguyễn Gia Huy
 
