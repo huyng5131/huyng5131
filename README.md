@@ -2,7 +2,7 @@
 <img width="480" height="270" alt="Art Love GIF" src="https://github.com/user-attachments/assets/6af6b075-3d31-4433-bf35-2d258f26c827" />
 </div>
 
-# 🚀 Hello, World! I'm Nguyễn Gia Huy
+# 🚀 Hello, I'm Nguyễn Gia Huy
 
 💻 **Computer Engineering Undergrad @ UIT - VNUHCM** | 📍 **Ho Chi Minh City, Vietnam**
 
