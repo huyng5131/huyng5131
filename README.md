@@ -1,11 +1,30 @@
 <div align="center">
   <img src="https://media.gifdb.com/capoo-cat-typing-on-desk-gh8k0cjf5hq4vy2p.gif" width="220" />
-  <br>
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=VT323&weight=500&size=30&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=System+Booting...;Hi,+I'm+Nguyen+Gia+Huy_>;Compiling+RTL_Modules...;Loading+RISC-V+Architecture..." alt="Typing SVG" />
-  </a>
 </div>
 
+```verilog
+module nguyen_gia_huy (
+    input  wire clk,
+    input  wire rst_n,
+    output wire [63:0] core_skills,
+    output reg  [31:0] current_focus
+);
+
+    // Computer Engineering Undergrad @ UIT - VNUHCM
+    // Base of Operations: Ho Chi Minh City, Vietnam
+
+    assign core_skills = {RTL_Design, RISC_V, VLSI, Embedded_C};
+
+    always @(posedge clk or negedge rst_n) begin
+        if (!rst_n) begin
+            current_focus <= 32'h0;
+        end else begin
+            // Building foundational skills step-by-step
+            current_focus <= {MultiCore_Systems, AXI4_Bus};
+        end
+    end
+
+endmodule
 ---
 
 ### 👨‍💻 Base of Operations
